@@ -8,3 +8,4 @@ Beta version is always updated with the same download link. If you encounter any
 v1.0.8 beta
 * Changed: Icon
 * Improved: Sorted notebook list
+* Added: Changeable title in save view
