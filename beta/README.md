@@ -10,4 +10,5 @@ v1.0.8 beta
 * Added: Changeable title in save view
 * Improved: Sorted notebook list
 * Improved: Parsing webpages
+* Fixed: Content too large issue
 
