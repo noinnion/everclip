@@ -6,6 +6,8 @@ Beta version is always updated with the same download link. If you encounter any
 [Download](https://github.com/noinnion/everclip/blob/master/beta/EverClip_beta.apk?raw=true)
 
 v1.0.8 beta
-* Changed: Icon
-* Improved: Sorted notebook list
+* Changed: App icon
 * Added: Changeable title in save view
+* Improved: Sorted notebook list
+* Improved: Parsing webpages
+
