@@ -7,6 +7,7 @@ Beta version is always updated with the same download link. If you encounter any
 
 v1.0.9 beta
 * New: Text Expander
+* Improved: Markdown support
 * Improved: User Interface
 * Improved: Clipping experience
 
