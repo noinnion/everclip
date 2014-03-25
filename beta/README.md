@@ -6,6 +6,7 @@ Beta version is always updated with the same download link. If you encounter any
 [Download](https://github.com/noinnion/everclip/blob/master/beta/EverClip_beta.apk?raw=true)
 
 v1.1.1 beta
+* Fixed: Text Expander issue on Nexus5
 * Fixed: Evernote login issue
 
 v1.0.9 beta
